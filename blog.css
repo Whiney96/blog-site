@@ -9,7 +9,7 @@ p {
    color: #D9D9D4; 
 }
 body{
-width:100%;
+width:100vw;
 background: #1e1f1c;
 }
 .container{
