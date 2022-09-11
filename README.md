@@ -5,5 +5,5 @@ It is a fully responsive page covering every screen size.
 
 ##### Eventually, other pages would be included to make to a personal project and more features would be implemented; some other modifications too
 
-###The published link:
+### The published link:
 https://whiney96.github.io/blog-site/
